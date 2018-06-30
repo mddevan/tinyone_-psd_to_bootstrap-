@@ -1,0 +1,179 @@
+/*
+font-family: 'PT Sans', sans-serif;
+*/
+
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+/*header start*/
+
+header {
+    background-color: #fcdb00;
+    min-height: 110px;
+}
+
+.custom_nav_logo {
+    margin-top: 40px;
+}
+
+.custom_nav ul li a {
+    font-size: 22px;
+    font-weight: bold;
+    padding: 0 60px !important;
+    margin-top: 40px;
+}
+
+.custom_nav ul li:last-child a {
+    padding-right: 0px !important;
+}
+
+
+/*header end*/
+
+/*banner start*/
+
+.banner {
+    background-color: #fcdb00;
+    padding-bottom: 80px;
+}
+
+.banner_content h1 {
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 130px;
+}
+
+.banner_p1 {
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.banner_p2 {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 30px;
+    color: #555555;
+}
+
+.banner_icons ul li i {
+    font-size: 40px;
+    padding: 0 25px;
+    margin-top: 40px;
+}
+
+.banner_icons {}
+
+.banner_icons ul li:first-child i {
+    padding-left: 0px;
+}
+
+.banner_img {
+    margin-top: 70px;
+}
+
+/*banner end*/
+
+/*service start*/
+
+.service {
+    padding-top: 100px;
+    border-color: #ffffff;
+    padding-bottom: 20px;
+}
+
+.service_header h1 {
+    font-weight: bold;
+    font-size: 32px;
+
+}
+
+.service_header p {
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 85px;
+}
+
+.service_logo {}
+
+.service_content {
+    margin-bottom: 80px;
+}
+
+.service_content h1 {
+    font-size: 22px;
+    font-weight: 400
+}
+
+.service_content p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #a7a7a7;
+    margin-top: 15px;
+
+}
+
+/*service end*/
+
+/*footer start*/
+
+footer {
+    background-color: #010101;
+}
+
+.footer_header h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #fcdb00;
+    margin-top: 90px;
+}
+
+.footer_header p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #898989;
+    margin-top: 25px;
+}
+
+.custom-form {
+    width: 82% !important;
+    margin: 0 auto;
+    height: 50px;
+}
+
+.form-group {
+    margin-top: 40px;
+}
+
+.footer_link {
+    margin-top: 80px;
+}
+
+.footer_link ul li img {
+    margin-right: 30px;
+}
+
+.footer_about p {
+    line-height: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.footer_about {
+    margin-left: 50px;
+    padding-bottom: 140px;
+    margin: auto;
+    margin-top: 120px;
+}
+
+.custom-button {
+    font-weight: bold;
+    font-size: 16px;
+    height: 50px;
+    width: 100px;
+}
+
+/*footer end*/

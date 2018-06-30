@@ -1,0 +1,368 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+
+ @media (max-width: 575.98px) {
+     /*========================================*/
+     .custom_nav ul li a {
+         padding: 0 !important;
+         text-align: right;
+         margin-top: 10px;
+         font-size: 19px;
+     }
+     .navbar-brand img {
+         width: 80%;
+     }
+
+
+     .custom_nav_logo {
+         margin-top: 0;
+     }
+     header {
+         min-height: 70px;
+     }
+     .banner_content h1 {
+         font-weight: bold;
+         font-size: 28px;
+         margin-top: 25px;
+         text-align: center;
+     }
+     .banner_p1 {
+         font-weight: 400;
+         font-size: 16px;
+         margin-top: 20px;
+         text-align: center;
+     }
+     .banner_p2 {
+         font-weight: 400;
+         font-size: 12px;
+         margin-top: 25px;
+         text-align: center;
+     }
+     .banner_icons {
+         text-align: center;
+     }
+     .banner_icons ul li i {
+         font-size: 33px;
+         padding: 0 20px;
+         margin-top: 20px;
+     }
+     .banner_img {
+         margin-top: 30px;
+         text-align: center;
+     }
+     .banner_img img {
+         width: 50%;
+     }
+     .banner {
+         padding-bottom: 45px;
+     }
+     .service {
+         padding-top: 50px;
+         padding-bottom: 0px;
+     }
+     .service_header h1 {
+         font-size: 23px;
+     }
+     .service_header p {
+         font-size: 15px;
+         margin-top: 18px;
+         margin-bottom: 60px;
+     }
+
+     .service_logo {
+         margin-top: 50px;
+         margin-left: 25px;
+     }
+     .service_content h1 {
+         font-size: 22px;
+         text-align: center;
+
+     }
+     .service_content p {
+         font-size: 15px;
+         text-align: center;
+         margin-top: 12px;
+
+     }
+     .service_content {
+         margin-bottom: 50px;
+     }
+     .footer_header h1 {
+         font-size: 25px;
+         margin-top: 40px;
+     }
+     .footer_header p {
+         font-size: 15px;
+         margin-top: 18px;
+     }
+     .custom-form {
+         width: 75% !important;
+         height: 32px;
+     }
+     .custom-button {
+         height: 32px;
+         font-size: 12px;
+         margin: auto;
+     }
+
+     .footer_link {
+         margin-top: 25px;
+     }
+     .footer_link ul li img {
+         width: 75%;
+         margin: auto;
+     }
+     .footer_about {
+         margin: auto;
+         margin-top: 30px;
+         padding-bottom: 30px;
+     }
+     .footer_about p {
+         line-height: 2px;
+         font-size: 6px;
+
+     }
+     .form-group {
+         margin-top: 25px;
+     }
+
+
+     /*========================================*/
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+
+ @media (min-width: 576px) and (max-width: 767.98px) {
+     /*========================================*/
+     .custom_nav ul li a {
+         padding: 0 !important;
+         text-align: right;
+         margin-top: 10px;
+         font-size: 20px;
+     }
+     .navbar-brand img {
+         width: 80%;
+     }
+
+
+     .custom_nav_logo {
+         margin-top: 0px;
+     }
+     header {
+         min-height: 70px;
+     }
+     .banner_content h1 {
+         font-weight: bold;
+         font-size: 30px;
+         margin-top: 35px;
+         text-align: center;
+     }
+     .banner_p1 {
+         font-weight: 400;
+         font-size: 18px;
+         margin-top: 20px;
+         text-align: center;
+     }
+     .banner_p2 {
+         font-weight: 400;
+         font-size: 14px;
+         margin-top: 25px;
+         text-align: center;
+     }
+     .banner_icons {
+         text-align: center;
+     }
+     .banner_icons ul li i {
+         font-size: 35px;
+         padding: 0 25px;
+         margin-top: 25px;
+     }
+     .banner_img {
+         margin-top: 40px;
+         text-align: center;
+     }
+     .banner_img img {
+         width: 60%;
+     }
+     .banner {
+         padding-bottom: 65px;
+     }
+     .service {
+         padding-top: 50px;
+         padding-bottom: 30px;
+     }
+     .service_header h1 {
+         font-size: 25px;
+     }
+     .service_header p {
+         font-size: 17px;
+         margin-top: 18px;
+         margin-bottom: 15px;
+     }
+     .service_logo {
+         margin-top: 45px;
+         margin-left: 240px;
+     }
+     .service_content h1 {
+         font-size: 22px;
+         font-weight: 400;
+         text-align: center;
+         margin-top: 15px;
+     }
+     .service_content p {
+         font-size: 15px;
+         text-align: center;
+         margin-top: 12px;
+
+     }
+     .service_content {
+         margin-bottom: 10px;
+     }
+     .footer_header h1 {
+         font-size: 25px;
+         margin-top: 45px;
+     }
+     .footer_header p {
+         font-size: 15px;
+         margin-top: 18px;
+     }
+     .custom-form {
+         width: 74% !important;
+         height: 37px;
+     }
+     .custom-button {
+         height: 37px;
+         font-size: 14px;
+     }
+     .form-group {
+         margin-top: 30px;
+     }
+     .footer_link {
+         margin-top: 40px;
+     }
+     .footer_link ul li img {
+         width: 50%;
+     }
+     .footer_about {
+         margin: auto;
+         margin-top: 70px;
+         padding-bottom: 70px;
+     }
+     .footer_about p {
+         line-height: 5px;
+         font-size: 11px;
+
+     }
+     .footer_about {
+         margin-top: 50px;
+         padding-bottom: 50px;
+     }
+
+     /*========================================*/
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+
+ @media (min-width: 768px) and (max-width: 991.98px) {
+     /*========================================*/
+     .custom_nav ul li a {
+         font-size: 19px;
+         font-weight: bold;
+         padding: 0px 30px !important;
+         margin-top: 25px;
+     }
+     .custom_nav_logo {
+         margin-top: 20px;
+         width: 80%;
+     }
+     .banner_img {
+         margin-top: 50px;
+     }
+     .banner_content h1 {
+         font-size: 25px;
+         margin-top: 70px;
+     }
+     .service_content p {
+         font-size: 14px;
+     }
+     .banner_p1 {
+         font-size: 15px;
+     }
+     .banner_p2 {
+         font-size: 13px;
+     }
+     .service_header h1 {
+         font-size: 25px;
+     }
+     .service_header p {
+         margin-bottom: 50px;
+         font-size: 15px;
+     }
+     .service_content {
+         margin-bottom: 50px;
+     }
+     .service {
+         padding-top: 50px;
+         padding-bottom: 0px;
+     }
+     .banner_icons ul li i {
+         font-size: 35px;
+         padding: 0 23px;
+     }
+     .banner_img img {
+         width: 85%;
+     }
+     .service_content h1 {
+         font-size: 17px;
+     }
+     .footer_header h1 {
+         font-size: 25px;
+         margin-top: 45px;
+     }
+     .footer_header p {
+         font-size: 15px;
+         margin-top: 18px;
+     }
+     .custom-form {
+         width: 74% !important;
+         height: 37px;
+     }
+     .custom-button {
+         height: 37px;
+         font-size: 14px;
+     }
+     .form-group {
+         margin-top: 30px;
+     }
+     .footer_link {
+         margin-top: 40px;
+     }
+     .footer_link ul li img {
+         width: 50%;
+     }
+     .footer_about {
+         margin: auto;
+         margin-top: 70px;
+         padding-bottom: 70px;
+     }
+     .footer_about p {
+         line-height: 6px;
+         font-size: 13px;
+
+     }
+
+     /*========================================*/
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+     /*========================================*/
+     /*========================================*/
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+
+ @media (min-width: 1200px) {
+     /*========================================*/
+     /*========================================*/
+ }
