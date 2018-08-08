@@ -33,7 +33,7 @@
      }
      .banner_p2 {
          font-weight: 400;
-         font-size: 12px;
+         font-size: 16px;
          margin-top: 25px;
          text-align: center;
      }
@@ -63,7 +63,7 @@
          font-size: 23px;
      }
      .service_header p {
-         font-size: 15px;
+         font-size: 16px;
          margin-top: 18px;
          margin-bottom: 60px;
      }
@@ -78,7 +78,7 @@
 
      }
      .service_content p {
-         font-size: 15px;
+         font-size: 16px;
          text-align: center;
          margin-top: 12px;
 
@@ -91,7 +91,7 @@
          margin-top: 40px;
      }
      .footer_header p {
-         font-size: 15px;
+         font-size: 16px;
          margin-top: 18px;
      }
      .custom-form {
